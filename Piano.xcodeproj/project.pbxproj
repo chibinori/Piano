@@ -13,6 +13,25 @@
 		9ABEAD321C15BF1B00911456 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9ABEAD301C15BF1B00911456 /* Main.storyboard */; };
 		9ABEAD341C15BF1B00911456 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9ABEAD331C15BF1B00911456 /* Assets.xcassets */; };
 		9ABEAD371C15BF1B00911456 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9ABEAD351C15BF1B00911456 /* LaunchScreen.storyboard */; };
+		9ABEAD521C15C04D00911456 /* keyboard_black.png in Resources */ = {isa = PBXBuildFile; fileRef = 9ABEAD3F1C15C04C00911456 /* keyboard_black.png */; };
+		9ABEAD531C15C04D00911456 /* keyboard_black@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9ABEAD401C15C04C00911456 /* keyboard_black@2x.png */; };
+		9ABEAD541C15C04D00911456 /* keyboard_white.png in Resources */ = {isa = PBXBuildFile; fileRef = 9ABEAD411C15C04C00911456 /* keyboard_white.png */; };
+		9ABEAD551C15C04D00911456 /* keyboard_white@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9ABEAD421C15C04C00911456 /* keyboard_white@2x.png */; };
+		9ABEAD561C15C04D00911456 /* piano_A#.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 9ABEAD431C15C04C00911456 /* piano_A#.mp3 */; };
+		9ABEAD571C15C04D00911456 /* piano_A.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 9ABEAD441C15C04D00911456 /* piano_A.mp3 */; };
+		9ABEAD581C15C04D00911456 /* piano_B.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 9ABEAD451C15C04D00911456 /* piano_B.mp3 */; };
+		9ABEAD591C15C04D00911456 /* piano_C#.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 9ABEAD461C15C04D00911456 /* piano_C#.mp3 */; };
+		9ABEAD5A1C15C04D00911456 /* piano_C'.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 9ABEAD471C15C04D00911456 /* piano_C'.mp3 */; };
+		9ABEAD5B1C15C04D00911456 /* piano_C.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 9ABEAD481C15C04D00911456 /* piano_C.mp3 */; };
+		9ABEAD5C1C15C04D00911456 /* piano_D#.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 9ABEAD491C15C04D00911456 /* piano_D#.mp3 */; };
+		9ABEAD5D1C15C04D00911456 /* piano_D.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 9ABEAD4A1C15C04D00911456 /* piano_D.mp3 */; };
+		9ABEAD5E1C15C04D00911456 /* piano_E.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 9ABEAD4B1C15C04D00911456 /* piano_E.mp3 */; };
+		9ABEAD5F1C15C04D00911456 /* piano_F#.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 9ABEAD4C1C15C04D00911456 /* piano_F#.mp3 */; };
+		9ABEAD601C15C04D00911456 /* piano_F.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 9ABEAD4D1C15C04D00911456 /* piano_F.mp3 */; };
+		9ABEAD611C15C04D00911456 /* piano_G#.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 9ABEAD4E1C15C04D00911456 /* piano_G#.mp3 */; };
+		9ABEAD621C15C04D00911456 /* piano_G.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 9ABEAD4F1C15C04D00911456 /* piano_G.mp3 */; };
+		9ABEAD631C15C04D00911456 /* top_frame.png in Resources */ = {isa = PBXBuildFile; fileRef = 9ABEAD501C15C04D00911456 /* top_frame.png */; };
+		9ABEAD641C15C04D00911456 /* top_frame@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9ABEAD511C15C04D00911456 /* top_frame@2x.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +45,25 @@
 		9ABEAD331C15BF1B00911456 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9ABEAD361C15BF1B00911456 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		9ABEAD381C15BF1B00911456 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9ABEAD3F1C15C04C00911456 /* keyboard_black.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = keyboard_black.png; sourceTree = "<group>"; };
+		9ABEAD401C15C04C00911456 /* keyboard_black@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "keyboard_black@2x.png"; sourceTree = "<group>"; };
+		9ABEAD411C15C04C00911456 /* keyboard_white.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = keyboard_white.png; sourceTree = "<group>"; };
+		9ABEAD421C15C04C00911456 /* keyboard_white@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "keyboard_white@2x.png"; sourceTree = "<group>"; };
+		9ABEAD431C15C04C00911456 /* piano_A#.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "piano_A#.mp3"; sourceTree = "<group>"; };
+		9ABEAD441C15C04D00911456 /* piano_A.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = piano_A.mp3; sourceTree = "<group>"; };
+		9ABEAD451C15C04D00911456 /* piano_B.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = piano_B.mp3; sourceTree = "<group>"; };
+		9ABEAD461C15C04D00911456 /* piano_C#.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "piano_C#.mp3"; sourceTree = "<group>"; };
+		9ABEAD471C15C04D00911456 /* piano_C'.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "piano_C'.mp3"; sourceTree = "<group>"; };
+		9ABEAD481C15C04D00911456 /* piano_C.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = piano_C.mp3; sourceTree = "<group>"; };
+		9ABEAD491C15C04D00911456 /* piano_D#.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "piano_D#.mp3"; sourceTree = "<group>"; };
+		9ABEAD4A1C15C04D00911456 /* piano_D.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = piano_D.mp3; sourceTree = "<group>"; };
+		9ABEAD4B1C15C04D00911456 /* piano_E.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = piano_E.mp3; sourceTree = "<group>"; };
+		9ABEAD4C1C15C04D00911456 /* piano_F#.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "piano_F#.mp3"; sourceTree = "<group>"; };
+		9ABEAD4D1C15C04D00911456 /* piano_F.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = piano_F.mp3; sourceTree = "<group>"; };
+		9ABEAD4E1C15C04D00911456 /* piano_G#.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "piano_G#.mp3"; sourceTree = "<group>"; };
+		9ABEAD4F1C15C04D00911456 /* piano_G.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = piano_G.mp3; sourceTree = "<group>"; };
+		9ABEAD501C15C04D00911456 /* top_frame.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = top_frame.png; sourceTree = "<group>"; };
+		9ABEAD511C15C04D00911456 /* top_frame@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "top_frame@2x.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,9 +112,36 @@
 		9ABEAD271C15BF1B00911456 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				9ABEAD3E1C15C04C00911456 /* Resource */,
 				9ABEAD281C15BF1B00911456 /* main.m */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		9ABEAD3E1C15C04C00911456 /* Resource */ = {
+			isa = PBXGroup;
+			children = (
+				9ABEAD3F1C15C04C00911456 /* keyboard_black.png */,
+				9ABEAD401C15C04C00911456 /* keyboard_black@2x.png */,
+				9ABEAD411C15C04C00911456 /* keyboard_white.png */,
+				9ABEAD421C15C04C00911456 /* keyboard_white@2x.png */,
+				9ABEAD431C15C04C00911456 /* piano_A#.mp3 */,
+				9ABEAD441C15C04D00911456 /* piano_A.mp3 */,
+				9ABEAD451C15C04D00911456 /* piano_B.mp3 */,
+				9ABEAD461C15C04D00911456 /* piano_C#.mp3 */,
+				9ABEAD471C15C04D00911456 /* piano_C'.mp3 */,
+				9ABEAD481C15C04D00911456 /* piano_C.mp3 */,
+				9ABEAD491C15C04D00911456 /* piano_D#.mp3 */,
+				9ABEAD4A1C15C04D00911456 /* piano_D.mp3 */,
+				9ABEAD4B1C15C04D00911456 /* piano_E.mp3 */,
+				9ABEAD4C1C15C04D00911456 /* piano_F#.mp3 */,
+				9ABEAD4D1C15C04D00911456 /* piano_F.mp3 */,
+				9ABEAD4E1C15C04D00911456 /* piano_G#.mp3 */,
+				9ABEAD4F1C15C04D00911456 /* piano_G.mp3 */,
+				9ABEAD501C15C04D00911456 /* top_frame.png */,
+				9ABEAD511C15C04D00911456 /* top_frame@2x.png */,
+			);
+			path = Resource;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -136,9 +201,28 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9ABEAD551C15C04D00911456 /* keyboard_white@2x.png in Resources */,
 				9ABEAD371C15BF1B00911456 /* LaunchScreen.storyboard in Resources */,
+				9ABEAD5B1C15C04D00911456 /* piano_C.mp3 in Resources */,
+				9ABEAD631C15C04D00911456 /* top_frame.png in Resources */,
+				9ABEAD5F1C15C04D00911456 /* piano_F#.mp3 in Resources */,
+				9ABEAD5D1C15C04D00911456 /* piano_D.mp3 in Resources */,
+				9ABEAD5E1C15C04D00911456 /* piano_E.mp3 in Resources */,
+				9ABEAD5C1C15C04D00911456 /* piano_D#.mp3 in Resources */,
 				9ABEAD341C15BF1B00911456 /* Assets.xcassets in Resources */,
+				9ABEAD541C15C04D00911456 /* keyboard_white.png in Resources */,
+				9ABEAD601C15C04D00911456 /* piano_F.mp3 in Resources */,
+				9ABEAD621C15C04D00911456 /* piano_G.mp3 in Resources */,
+				9ABEAD561C15C04D00911456 /* piano_A#.mp3 in Resources */,
+				9ABEAD581C15C04D00911456 /* piano_B.mp3 in Resources */,
+				9ABEAD641C15C04D00911456 /* top_frame@2x.png in Resources */,
+				9ABEAD521C15C04D00911456 /* keyboard_black.png in Resources */,
+				9ABEAD571C15C04D00911456 /* piano_A.mp3 in Resources */,
+				9ABEAD591C15C04D00911456 /* piano_C#.mp3 in Resources */,
 				9ABEAD321C15BF1B00911456 /* Main.storyboard in Resources */,
+				9ABEAD611C15C04D00911456 /* piano_G#.mp3 in Resources */,
+				9ABEAD5A1C15C04D00911456 /* piano_C'.mp3 in Resources */,
+				9ABEAD531C15C04D00911456 /* keyboard_black@2x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
